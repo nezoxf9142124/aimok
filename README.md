@@ -1,0 +1,2 @@
+# aimok
+aimbotxesp
